@@ -1,0 +1,7 @@
+{
+    "name": "foobar/foobar",
+    "description": "foobar",
+    "require": {
+        "fideloper/proxy": "4.0"
+    }
+}
