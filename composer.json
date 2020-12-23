@@ -2,6 +2,6 @@
     "name": "foobar/foobar",
     "description": "foobar",
     "require": {
-        "fideloper/proxy": "4.0"
+        "fideloper/proxy": "3.0"
     }
 }
