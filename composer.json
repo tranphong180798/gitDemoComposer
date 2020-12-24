@@ -3,5 +3,10 @@
     "description": "foobar",
     "require": {
         "fideloper/proxy": "4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "foobar\\foobar\\": "src/"
+        }
     }
 }

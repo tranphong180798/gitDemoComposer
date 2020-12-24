@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'ca248291a441a2b9548d9d1417c5c6ce59e4abc5',
+    'reference' => '85f2d7c65f2042ae70c0c8a1f0dfa47e547dcebb',
     'name' => 'foobar/foobar',
   ),
   'versions' => 
@@ -27,7 +27,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'ca248291a441a2b9548d9d1417c5c6ce59e4abc5',
+      'reference' => '85f2d7c65f2042ae70c0c8a1f0dfa47e547dcebb',
     ),
     'illuminate/contracts' => 
     array (
