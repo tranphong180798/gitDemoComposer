@@ -1,0 +1,7 @@
+{
+    "name": "foochildren/foochildren",
+    "description": "foochildren",
+    "require": {
+        "fideloper/proxy": "4.4"
+    }
+}
