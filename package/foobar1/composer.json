@@ -1,5 +1,5 @@
 {
-    "name": "foo/foobar",
+    "name": "foobar1/foobar1",
     "description": "foobar",
     "require": {
         "fideloper/proxy": "4.0"
